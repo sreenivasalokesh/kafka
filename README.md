@@ -4,7 +4,7 @@ This simple plain java project demonstrates basic functioning of Kafka Producers
 * Running instances of kafka
 * A Topic "my_second_topic" created with 3 Partitions preferably
 
-## What can be seen in this project  
+## This project demonstrates  
 * A Producer send a message of format <String, String>
 * A Consumer receives a message of format <String, String>
 * Producer Callback function
