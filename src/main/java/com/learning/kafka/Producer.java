@@ -24,7 +24,7 @@ private static final Logger log = LoggerFactory.getLogger(Producer.class);
     	log.info( "At producer" );
     	
     	String bootstrapServer = "172.28.5.75:9092";
-    	String topic = "first_topic";
+    	String topic = "my_second_topic";
     	
     	//create properties
     	Properties props = new Properties();
